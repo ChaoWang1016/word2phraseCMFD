@@ -1,0 +1,48 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=latex 2008.9.11)  27 MAR 2009 01:32
+entering extended mode
+**/Users/zuliani/Documents/Lectures/RANSAC4dummies/RANSAC4dummies
+(/Users/zuliani/Documents/Lectures/RANSAC4dummies/RANSAC4dummies.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+
+! LaTeX Error: File `zuliani.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+! Interruption.
+<to be read again> 
+                   }
+l.5 ^^M
+       
+? q
+OK, entering \batchmode...
+
+! LaTeX Error: File `sty/mcode.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+ Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.7 \makeindex
+              ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 17 strings out of 94501
+ 417 string characters out of 1176137
+ 48348 words of memory out of 1500000
+ 3279 multiletter control sequences out of 10000+50000
+ 3640 words of font info for 14 fonts, out of 1200000 for 2000
+ 580 hyphenation exceptions out of 8191
+ 10i,0n,7p,127b,8s stack positions out of 5000i,500n,6000p,200000b,5000s
+No pages of output.
