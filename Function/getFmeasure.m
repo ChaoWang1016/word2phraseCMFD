@@ -4,6 +4,8 @@ function [FM,measure] = getFmeasure(value,gt)
     if ischar(gt)   , gt = imread(gt); end;
     gt    = gt(:);
     value = value(:);
+    gt    = (gt-min(gt))/(max(gt)-min(gt));
+    gt    = gt>0.5;
     gt1   = (gt==max(gt));
     gt0   = (gt==0);
 
